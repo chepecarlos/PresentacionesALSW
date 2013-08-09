@@ -2,8 +2,8 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
    xmlns:ns1="http://sozi.baierouge.fr"
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -31,8 +31,8 @@
      inkscape:document-units="px"
      inkscape:current-layer="g9385"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="743"
+     inkscape:window-width="1280"
+     inkscape:window-height="999"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -852,7 +852,7 @@
     <g
        id="g9385">
       <a
-         xlink:href="FODA.svg"
+         xlink:href="Meta.svg"
          id="a9423">
         <image
            y="1240.2329"
